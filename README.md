@@ -22,6 +22,7 @@ O objetivo deste modelo é servir como referência para projetos que necessitam 
 - **Componentes**:
   - Serviços de aplicação.
   - Interfaces de uso (ex.: DTOs, ViewModels).
+ 
 ![image](https://github.com/user-attachments/assets/24a30b4e-c396-45f0-8a24-9e06a2c027e8)
 
 ---
@@ -32,7 +33,7 @@ O objetivo deste modelo é servir como referência para projetos que necessitam 
   - Tratamento de exceções.
   - Gerenciamento de logs.  
 - **Função**: Promover reutilização e centralizar funcionalidades genéricas.
-![image](https://github.com/user-attachments/assets/cce371bf-3ce7-4ce1-92d4-bd19da34c4b4)
+- ![image](https://github.com/user-attachments/assets/cce371bf-3ce7-4ce1-92d4-bd19da34c4b4)
 
 
 ---
